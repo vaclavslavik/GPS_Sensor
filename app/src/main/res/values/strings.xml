@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPS Sensor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_add">ZOBRAZIT VÝSLEDKY</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="button_meassure_from_menu">NOVÉ MĚŘENÍ</string>
+    <string name="button_save_meassure">ULOŽIT A UKONČIT MĚŘENÍ</string>
+    <string name="title_activity_training_diary">TrainingDiaryActivity</string>
+    <string name="button_menu_training">TRÉNINKOVÝ DENÍK</string>
+    <string name="title_settings_activity">NASTAVENÍ</string>
+
+    <string name="desc_off">VZESTUPNĚ</string>
+    <string name="desc_on">SESTUPNĚ</string>
+    <string name="desc">ŘAZENÍ</string>
+    
+    <string name="graph_series_average_speed">prům.</string>
+    <string name="graph_series_actual_speed">aktuální</string>
+    <string name="graph_speed_title">Vývoj rychlosti</string>
+    <string name="graph_speed_axis_speed">rychlost [km/h]</string>
+    <string name="graph_speed_axis_time">čas [s]</string>
+
+    <string name="stop_meassure">ZASTAVIT MĚŘENÍ</string>
+    <string name="begin_meassure">POKRAČOVAT</string>
+    <string name="button_renew_meassure">NOVÉ MĚŘENÍ</string>
+
+    <string name="gps_not_enabled">Vaše GPS je pravděpodobně vypnuta, prosím zapněte ji.</string>
+    <string name="yes">ANO</string>
+    <string name="no">NE</string>
+
+    <string name="not_choose_strategy">Nebyla nalezena odpovídající strategie : </string>
+
+    <string name="default_strategy_summary">STRATEGIE MĚŘENÍ</string>
+    <string name="default_strategy_title">STRATEGIE MĚŘENÍ</string>
+
+    <string name="distance">Vzdálenost : </string>
+    <string name="average_speed">Průměrná rychlost : </string>
+    <string name="distance_entity"> m</string>
+    <string name="average_speed_entity"> km/h</string>
+
+    <string name="nothing_locations">Nebyly nalezeny žádné souřadnice k zobrazení</string>
+
+    <string name="delete_track_id">Smazání trasy id = </string>
+    <string name="confirm_delete_track">Opravdu chcete smazat záznam?</string>
+
+</resources>
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="strategy_names">
+        <item>DIRECT</item>
+        <item>2POINT_AVERAGE</item>
+        <item>50M_AVERAGE</item>
+    </array>
+
+    <array name="strategy_names_user">
+        <item>PŘÍMÉ </item>
+        <item>2 - BODOVÝ PRŮMĚR</item>
+        <item>50m PRŮMĚROVACÍ</item>
+    </array>
+
+
+</resources>
